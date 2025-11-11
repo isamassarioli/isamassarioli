@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Meu nome é Isadora Massarioli  
 
-<!--
-**isamassarioli/isamassarioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** e também apaixonada por **Design e Comunicação**.  
+💡 Tenho interesse em desenvolvimento web, automação, design e tudo que envolve criatividade e tecnologia.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim  
+
+Sou uma pessoa curiosa por natureza e adoro aprender coisas novas — especialmente quando posso unir tecnologia e estética em um mesmo projeto.  
+Atualmente, estou explorando mais o ecossistema **Java** e **Python**, além de aprimorar minhas habilidades com **HTML e CSS** para o desenvolvimento front-end.  
+
+Gosto de trabalhar em projetos que têm propósito e que ajudem pessoas a resolver problemas reais.  
+
+---
+
+## 💻 Tecnologias que utilizo no momento 
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+## 📫 Onde me encontrar  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isamassarioli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isamassarioli/)
+
+</div>
