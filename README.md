@@ -33,7 +33,7 @@ Gosto de trabalhar em projetos que têm propósito e que ajudem pessoas a resolv
 
 </div>
 
-📊 Minhas estatísticas no GitHub  
+## 📊 Minhas estatísticas no GitHub  
 
 <div align="center">
   
