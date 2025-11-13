@@ -36,9 +36,7 @@ Gosto de trabalhar em projetos que têm propósito e que ajudem pessoas a resolv
 📊 Minhas estatísticas no GitHub  
 
 <div align="center">
-
-![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=isamassarioli&show_icons=true&theme=tokyonight&hide_border=true)
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isamassarioli&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
